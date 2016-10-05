@@ -26,7 +26,7 @@
 	}
 	
 	function pop(){
-		server
+		server_test_Pop
 	}
 
 ?>
