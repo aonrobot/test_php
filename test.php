@@ -1,4 +1,4 @@
 <?php
 	echo 'Hi';
-	echo 'server';
+	var_dump('array');
 ?>
