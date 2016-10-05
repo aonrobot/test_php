@@ -1,4 +1,4 @@
 <?php
 	echo 'Hi';
-	echo 'server';
+	print_r('array');
 ?>
